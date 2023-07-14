@@ -1,0 +1,1066 @@
+<?xml version="1.0"?>
+<StoryDataPackage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <KeyTimeList />
+  <ConversationList>
+    <Conversation>
+      <Text>———后户之国</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>NamedColor:White</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground>B0</ChangeBackground>
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>大莲华地狱的试炼，以魔理沙的胜利告终@经历激战的她也精疲力竭，撤退至后户之国休整</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>NamedColor:White</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>真是累死我了……</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>魔理沙</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:192:128</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>这趟地狱之行，根本就是打了一路的架@虽说挑战了不少强敌，但这样真的有用吗？</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>魔理沙</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:192:128</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>能够通过那位大人的试炼，获得她的认可，
+ 就已经是最大的成功了</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>隐岐奈</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:166:166:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>更何况，还有别的大人物在关注着你战斗的英姿@她可是对你赞不绝口哦？</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>隐岐奈</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:166:166:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>秘神的话让魔理沙察觉到了那充满压迫感的身姿@在后户之国中，有红、黄、蓝三色的星球在闪耀</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>NamedColor:White</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground>B1</ChangeBackground>
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>敢和八寒地狱一较短长，你果然是个优秀的人类啊！</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>赫卡提亚</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:102:102</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>好啊，原来是你这个怪神一直在旁边围观吗？@那你倒是出手帮一下啊！</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>魔理沙</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:192:128</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>抱歉抱歉，并不是我不想帮助幻想乡@现在地狱的各方势力都在争夺权利，整个地狱一片混乱@我在此时现身，是可能会挑起地狱内部的战争的</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>赫卡提亚</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:102:102</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>原来如此@但是追回那名击败地狱的犯人，我们还需借用您的智慧@否则我们毫无胜算</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>隐岐奈</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:166:166:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>两位请放心吧@在罪海上通过她的试炼，已经成功证明了你们的实力@正因如此，你们马上就会迎来一位坚实的后盾</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>赫卡提亚</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:102:102</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>黑暗之中传来某扇门打开的声音@随即璀璨夺目的光芒照亮了整个空间</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName />
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>NamedColor:White</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground>B2</ChangeBackground>
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>从门中出现的白翼之神
+正是与魔理沙在冥河上对峙的八寒地狱鬼神长</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>NamedColor:White</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>和你说的一样呢赫卡蒂，没想到她真的能通过试炼@确实是个优秀的人类呢</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>绘照</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:255:153</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>原来是你啊，八寒地狱的鬼神长</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>魔理沙</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:192:128</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>你好啊，堕落到深渊成为工作狂的神明@给我们允诺的报酬可还没兑现呢</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>隐岐奈</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:166:166:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>我记得我们的约定可是要追回地狱的犯人@通过试炼，赢得她的认可只是第一步</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>绘照</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:255:153</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>我会给你们提供必要的帮助，
+ 但接下来怎么做要你们自己决定@只要能解决问题，我都同意</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>绘照</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:255:153</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>八寒地狱的“CEO”讲求务实，会用最有效的办法处理事务@不过从她的语气中，三人都听出了极度的疲惫</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>NamedColor:White</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>开遍大地的雪莲花将会为你们指明道路</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>赫卡提亚</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:102:102</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground>B3</ChangeBackground>
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>你们所熟知的地狱为无尽喧嚣的火与热，
+ 而八寒地狱则为永恒寂静的冰与冻</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>赫卡提亚</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:102:102</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>所以那冰封万物的力量，其实也是一种净化@在冰封幻想乡的同时，也是在创造属于她的世界</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>赫卡提亚</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:102:102</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>您是说，将幻想乡封冻的寒流，
+ 实际上是地上界的净土化？</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>隐岐奈</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:166:166:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>虽为不同，但也类似@净土沟通了三个世界，那是去往地球、异界和月的三岔路</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>赫卡提亚</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:102:102</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>赫卡蒂的意思是，那片雪原已经发生了转化@已经不再属于原本幻想乡地狱的管辖了</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>绘照</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:255:153</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>冰封的同时也是势力的扩张，
+ 那里早已是八寒地狱的势力范围了吧</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>绘照</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:255:153</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>怪不得这次的异变，地狱的各方势力都无法轻易出手@因为真的会变成地狱内部战争的呀</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>隐岐奈</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:166:166:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>是的，但也正因如此，那里现在具有了异界口岸的性质@在幻想乡内部，只有那里可以让犯人去往外界</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>绘照</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:255:153</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>这下我懂了！@也就是说，必须前往那里和犯人一决胜负！</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>魔理沙</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:192:128</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>明确了目标，三位神明聚集在魔理沙周围@她们将支持这位人类，给予她战胜一切强敌的力量</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>NamedColor:White</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground>B4</ChangeBackground>
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>我、赫卡蒂还有这位门之神的能力相结合@虽然只是一时的力量，但也足够超越俗常了</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>绘照</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:255:153</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>WOW，这力量甚至能超越真正的魔法使！@这下我觉得我可以战无不胜了！</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>魔理沙</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:192:128</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>你们别看她现在这样，以前可是有过“天帝”这种名号呢@不过现在已经融入地狱咯</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>赫卡提亚</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:102:102</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>那么久远的事就不要再提了，赫卡蒂@你是知道的，所有堕入地狱之人都抛弃了原本的自我</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>绘照</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:255:153</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>我抛弃了神明的尊严，沦落为一介侍从@但当一切尘埃落定，我会让光明重新照耀深渊大地</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>绘照</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:255:153</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>白翼的女神坚持本心，操纵以太的力量@地狱的女神鼎力相助，后户的女神全力支援@三名女神的力量，令生命力与精神力集于一点</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>NamedColor:White</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>封冻一切的寒流沟通了三个世界@那神秘的莲花雪原正是三岔路口@通向神明所指定的，终末的战场</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>NamedColor:White</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>雾雨魔理沙&amp;摩多罗隐岐奈 Ending No.02@命运的三岔路@Congratulation! 恭喜通关！</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>NamedColor:White</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+  </ConversationList>
+  <MusicTime>0</MusicTime>
+  <NameTime>0</NameTime>
+  <Circle>0</Circle>
+  <CanControl>0</CanControl>
+</StoryDataPackage>

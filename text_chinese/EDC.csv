@@ -1,0 +1,1207 @@
+<?xml version="1.0"?>
+<StoryDataPackage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <KeyTimeList />
+  <ConversationList>
+    <Conversation>
+      <Text>———神子的仙界</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>NamedColor:White</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground>C0</ChangeBackground>
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>大莲华地狱的试炼，以神子和白莲的胜利告终@经历激战的她们也已精疲力竭，撤退至仙界休整</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>NamedColor:White</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>我们虽然通过了试炼，但幻想乡的冰封还未解除@南无三，难道只能空手而归了么……</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>白莲</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:213:128:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>此言差矣，这次地狱之行绝不是一无收获@那位尊神应当自有打算，我等静待佳音即可</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>神子</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:234:128</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>哈哈哈，佳音这不就来了吗！</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>？？？</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:128:192</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>话音未落，只见两道陌生的身影在仙界中闪现@死镰和提灯，那正是两人在深渊中交战的强敌</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>NamedColor:White</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground>C1</ChangeBackground>
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>姐姐大人，是那两个邪魔外道！</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>初月</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:128:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>初月你又乱来了！都说了不要擅自动手</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>结音</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:128:255:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>两位，我们是作为鬼神长大人的使者前来……</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>结音</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:128:255:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>没能在深渊斩掉你们实属遗憾，这次可不会失手了！</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>初月</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:128:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>听闻地狱的索命使者无孔不入，此言果真不虚</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>神子</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:234:128</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>对付无常杀鬼逃避无用，主动应战便是！</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>白莲</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:213:128:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>依我看，你们两方还是收手为好</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>？？？</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:128:192</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>地狱顶点的鬼王散发出惊人的魄力，
+ 一瞬间就制止了双方的战斗欲望</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>NamedColor:White</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground>C2</ChangeBackground>
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>她那张狂强横的样子，和平常的仙人形象截然不同</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>NamedColor:White</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>阁下是茨华仙……不，茨木鬼王？</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>白莲</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:213:128:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>只是暂时借用一点老搭档的记忆罢了@真正的鬼王已经死了</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>华扇</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:128:192</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>欸？你们难道认识鬼王大人？</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>初月</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:128:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>初月，还不快把武器放下！@鬼神长大人是让我们来重申约定的，
+ 这次可不能由着你胡来</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>结音</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:128:255:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>不错，我们在冥河上约定过@幻想乡的问题就由幻想乡的住民来解决</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>神子</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:234:128</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>能通过罪海上试炼，就足以说明两位的实力了@由你们来追捕逃犯，看来也不是没有可能……</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>结音</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:128:255:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>但要我说，如今那名非天的实力可是更胜一筹@就连神明都要惧她三分哦？</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>华扇</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:128:192</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>听到“非天”一词，就连狂傲的无常姐妹也打了一个哆嗦@看来华扇所言绝非夸大之词</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>NamedColor:White</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground>C3</ChangeBackground>
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>此话怎讲？</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>白莲</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:213:128:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>那位非天，不仅是实力上，同时也是概念上的强大</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>结音</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:128:255:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>就是！无论我们怎么攻击，都没有一点效果，呜……</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>初月</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:128:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>可若真强到这种地步，那她又是怎么被关入地狱的呢？</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>神子</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:234:128</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>两位有所不知@我等鬼族能够通过向神佛苦修，获得赐福的力量@克服的障碍越高，得到的回报也越惊人</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>华扇</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:128:192</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>而那位非天又是其中的佼佼者@她在狱中苦修千百万年，甚至获得了至高神的注目</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>华扇</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:128:192</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>华扇的一番讲述，给追捕行动蒙上了一层阴云@若无法击败非天，则幻想乡的安宁不过是沙上楼阁</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>NamedColor:White</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground>C4</ChangeBackground>
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>南无三，至高神滥发赐福，其祸患却由三界众生承担</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>白莲</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:213:128:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>地下诞生出如此强大的魔头，多半要归因于天神自己</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>神子</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:234:128</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>鬼神长大人说，在现实的世界中，无人能对抗非天</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>初月</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:128:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>典狱长大人说，在幻想的世界中，无人能对抗非天</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>结音</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:128:255:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>那难道说无论在何种条件下，她都是无敌的吗？</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>神子</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:234:128</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>世界上可没有真正的无敌，
+ 赐福在给予时也一定会有反制之法@想想这个赐福的发动条件吧</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>华扇</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:128:192</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>在幻想中无敌，和在现实中无敌……</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>白莲</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:213:128:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>原来如此！那就只有在幻想与现实的交界之处！</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>白莲</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:213:128:255</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>正解！当下只有这里，只有你们，具备战胜非天的条件@我想，这就是那位尊神选择你们的原因</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>华扇</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:128:192</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>在三界众生的瞩目下，赢下这场战斗吧@届时，幻想乡将成为十方世界瞩目的焦点！</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharaName>华扇</CharaName>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>ARGBColor:255:255:128:192</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>打败鬼神长等众多强者，将地狱击穿的非天@和这样的对手交战，或许比罪海上的较量更凶险@但神子和白莲决心紧紧抓住，拯救幻想乡的唯一机会</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>NamedColor:White</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>非天这一可怖名号中蕴含的意味，乃与天为敌@但她却在跨越苦难后，得到了至高神的赐福@两人隐隐觉得，是众神自己塑造出了究极之敌</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>NamedColor:White</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+    <Conversation>
+      <Text>圣白莲&amp;丰聪耳神子 Ending No.03@南无三，因果报应！@Congratulation! 恭喜通关！</Text>
+      <StringCount>0</StringCount>
+      <Duration>0</Duration>
+      <AutoPlay>false</AutoPlay>
+      <CharLAcitve>false</CharLAcitve>
+      <CharL />
+      <CharLMirror>false</CharLMirror>
+      <CharRAcitve>false</CharRAcitve>
+      <CharR />
+      <CharRMirror>false</CharRMirror>
+      <CharL2 />
+      <CharL2Acitve>false</CharL2Acitve>
+      <CharL2Mirror>false</CharL2Mirror>
+      <CharR2 />
+      <CharR2Acitve>false</CharR2Acitve>
+      <CharR2Mirror>false</CharR2Mirror>
+      <FontSize>16</FontSize>
+      <Text2 />
+      <FontColor>NamedColor:White</FontColor>
+      <FontColor2>NamedColor:White</FontColor2>
+      <ChangeBGMName />
+      <ChangeBackground />
+      <BackgroundFadeTime>50</BackgroundFadeTime>
+      <VibrateTime>0</VibrateTime>
+      <SpeedLine>false</SpeedLine>
+    </Conversation>
+  </ConversationList>
+  <MusicTime>0</MusicTime>
+  <NameTime>0</NameTime>
+  <Circle>0</Circle>
+  <CanControl>0</CanControl>
+</StoryDataPackage>
